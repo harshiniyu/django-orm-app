@@ -97,3 +97,4 @@ admin.site.register(Employee,EmployeeAdmin)
 
 
 ## RESULT
+The django-orm-app has been created successfully
